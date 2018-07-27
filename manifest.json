@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Fix LinkedIN Plugin",
+  "description": "This extension will remove the news bar. More to come!",
+  "version": "0.9",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "donate.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
