@@ -1,4 +1,3 @@
-
 #masthead,
 #primary {
   -webkit-filter: invert(100%);
@@ -17,5 +16,7 @@
 .feed-right-rail__top-module {
   display: none;
 }
+
+/*rest of the right bar*/
 .feed-right-rail__container {
 }
