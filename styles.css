@@ -1,9 +1,17 @@
+body {
+
+}
+#settings-wrap {
+  width:700px;
+  text-align: center;
+}
+
 #masthead,
 #primary {
-  -webkit-filter: invert(100%);
+  /*-webkit-filter: invert(100%);
   filter: invert(100%);
   background-color: #fff;
-  padding: 20px !important;
+  padding: 20px !important;*/
 }
 #masthead {
   background: none;
